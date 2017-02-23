@@ -9,6 +9,7 @@ namespace PlayingWithGit
 {
     public class Program
     {
+        // this here is the main method
         public static void Main(string[] args)
         {
             var host = new WebHostBuilder()
